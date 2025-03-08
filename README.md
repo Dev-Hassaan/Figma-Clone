@@ -1,37 +1,43 @@
-
 ---
 
-# Next.js Task Management System
+# Next.js Figma Clone 🎨✨🖌️
 
-This is a simple task management system built with [Next.js](https://nextjs.org/). The repository is currently empty, and more details and features will be added soon.
+This is a Figma-like design and collaboration tool built with [Next.js](https://nextjs.org/). It features real-time collaboration and utilizes [Fabric.js](https://fabricjs.com/) for canvas rendering. 🚀🎯💡
 
-## Table of Contents
+## Table of Contents 📜📌🗂️
 
 - [About](#about)
+- [Features](#features)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 
-## About
+## About 🎨🖥️⚡
 
-This project aims to provide a straightforward task management system with essential functionalities such as creating, updating, deleting, and completing tasks. It is built using Next.js to leverage its powerful server-side rendering and static site generation capabilities.
+This project aims to provide an interactive design platform similar to Figma, allowing users to create and edit designs collaboratively in real time. Built with Next.js, it leverages server-side rendering and static site generation for a seamless experience. 🚀💻🔧
 
-## Getting Started
+## Features 🛠️🎯🌟
 
-### Prerequisites
+- **Canvas Rendering**: Powered by Fabric.js for smooth design interactions.
+- **Real-time Collaboration**: Users can work together simultaneously.
+- **Layer Management**: Organize design elements efficiently.
+
+## Getting Started 🚀📌🛠️
+
+### Prerequisites ✅🔧📋
 
 Ensure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/) (v14 or higher recommended)
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 
-### Installation
+### Installation 📂📥💻
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Dev-Hassaan/Task-Spider.git
-   cd your-repo-name
+   git clone https://github.com/Dev-Hassaan/Figma-Clone.git
+   cd figma-clone
    ```
 
 2. **Install dependencies:**
@@ -48,7 +54,7 @@ Ensure you have the following installed on your machine:
    yarn install
    ```
 
-### Running the Application
+### Running the Application ▶️💻🌍
 
 Start the development server with:
 
@@ -62,25 +68,27 @@ Or with Yarn:
 yarn dev
 ```
 
-Then open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+Then open [http://localhost:3000](http://localhost:3000) in your browser to see the application. 🌐🔍👀
 
-## Project Structure
+## Project Structure 📂🛠️📌
 
-A basic project structure for the Next.js application might look like this:
+A basic project structure for the Next.js application:
 
 ```
-your-repo-name/
+figma-clone/
 ├── components/        # Reusable components
-├── pages/             # Next.js pages (e.g., index.js)
+├── pages/             # Next.js pages (e.g., index.js, dashboard.js)
 ├── public/            # Static files (images, fonts, etc.)
 ├── styles/            # CSS and styling files
+├── utils/             # Utility functions
+├── hooks/             # Custom React hooks
+├── context/           # State management (e.g., collaboration context)
 ├── package.json       # Project metadata and dependencies
 └── README.md          # This file
 ```
 
-Feel free to modify this structure as your project evolves.
+Feel free to modify this structure as your project evolves. 🔄📝🔧
 
-## Contributing
+## Contributing 🤝💡📌
 
-Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
+Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change. 🚀🔍💬
