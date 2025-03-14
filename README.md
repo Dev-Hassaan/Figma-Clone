@@ -6,11 +6,11 @@ This is a Figma-like design and collaboration tool built with [Next.js](https://
 
 ## Table of Contents 📜📌🗂️
 
-- [About](#about)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
+- [About](#about-%EF%B8%8F)
+- [Features](#features-%EF%B8%8F)
+- [Getting Started](#getting-started-%EF%B8%8F)
+- [Project Structure](#project-structure-%EF%B8%8F)
+- [Contributing](#contributing-)
 
 ## About 🎨🖥️⚡
 
